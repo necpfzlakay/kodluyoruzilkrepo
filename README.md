@@ -8,7 +8,7 @@ içerisinde bir adet README.txt ve bir adet de index.html dosyası barındırıy
 Öncelikle projeyi klonlayın
 
 ```
-git clone https://github.com/necpfzlakay/kodluyoruzilkrepo/new/main
+git clone https://github.com/necpfzlakay/kodluyoruzilkrepo.git
 ```
 
 # Usage 
